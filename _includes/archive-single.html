@@ -57,7 +57,9 @@
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}">{{ post.paperurl }}</a></p>
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
-    {% elsif post.paperurl %}
+    {% elsif post.paperurl and post.slidesurl%}
+      <p class="wordwrap"> [<a href=" {{ post.paperurl }} ">paper</a>] [<a href=" {{ post.slidesurl }} ">slides</a>]</p>
+    {% elsif post.paperurl}
       <p class="wordwrap"> [<a href=" {{ post.paperurl }} ">paper</a>]</p>
     {% endif %}
 
