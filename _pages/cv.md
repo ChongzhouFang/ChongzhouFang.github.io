@@ -2,13 +2,13 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-pdfurl: 'https://https://chongzhoufang.github.io/files/CV_Chongzhou.pdf'
+pdfurl: 'https://chongzhoufang.github.io/files/CV_Chongzhou.pdf'
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-<p>Updated PDF version of my <a href="https://https://chongzhoufang.github.io/files/CV_Chongzhou.pdf">CV</a>.</p>
+<p>Updated PDF version of my <a href="{{ page.pdfurl }}">CV</a>.</p>
 
 {% include base_path %}
 
