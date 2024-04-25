@@ -1,7 +1,7 @@
 ---
 title: "EEC 193B: Internet of Things Project"
-collection: "Teaching Assistant, Spring 2022"
-type: "Undergraduate course"
+collection: teaching
+type: "Teaching Assistant, Spring 2022"
 # permalink: /teaching/eec193b
 venue: "University of California, Davis"
 # date: 2021-01-01

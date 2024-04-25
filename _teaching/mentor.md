@@ -1,7 +1,7 @@
 ---
 title: "Graduate mentor for undergraduate students"
-# collection: "Teaching Assistant, Fall 2023"
-# type: "Undergraduate course"
+collection: teaching
+type: "Graduate Mentor"
 # permalink: /teaching/mentor
 venue: "University of California, Davis"
 # date: 2021-01-01
