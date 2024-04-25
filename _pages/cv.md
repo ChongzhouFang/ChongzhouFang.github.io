@@ -20,4 +20,4 @@ Education
 Industry experience
 ======
 * Summer 2022: Intel PSG
-  * Developing security features of Intel FPGAs.
+  * Developing security features for Intel FPGAs.
