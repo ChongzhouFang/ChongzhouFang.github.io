@@ -2,63 +2,22 @@
 layout: archive
 title: "CV"
 permalink: /cv/
+pdfurl: 'https://https://chongzhoufang.github.io/files/CV_Chongzhou.pdf'
 author_profile: true
 redirect_from:
   - /resume
 ---
 
+<div class="wordwrap">Updated PDF version of my <a href="{{ page.pdfurl }}">CV</a>.</div>
+
 {% include base_path %}
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Engineering, University of California, Davis, CA, USA 2020-2025 (expected)
+* B.Eng in Information Engineering, Southeast University, Nanjing, CHN, 2016-2020
 
-Work experience
+Industry experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Summer 2022: Intel PSG
+  * Developing security features of Intel FPGAs.
