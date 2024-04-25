@@ -8,7 +8,7 @@ redirect_from:
   - /resume
 ---
 
-<div class="wordwrap">Updated PDF version of my <a href="{{ page.pdfurl }}">CV</a>.</div>
+<p>Updated PDF version of my <a href="https://https://chongzhoufang.github.io/files/CV_Chongzhou.pdf">CV</a>.</p>
 
 {% include base_path %}
 
