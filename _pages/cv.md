@@ -15,7 +15,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Engineering, University of California, Davis, CA, USA 2020-2025 (expected)
-* B.Eng in Information Engineering, Southeast University, Nanjing, CHN, 2016-2020
+* B.Eng in Information Engineering, Southeast University, Nanjing, China, 2016-2020
 
 Industry experience
 ======
