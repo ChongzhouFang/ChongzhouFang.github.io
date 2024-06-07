@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Chongzhou Fang, a PhD candidate at University of California, Davis. My main research interest lies in heterogeneous cloud and edge security. I focus on both scheduler security and side-channel attack &amp; defense in heterogeneous computing resources like FPGAs. I also do security-related research on LLMs.
+I am Chongzhou Fang, a PhD candidate at University of California, Davis. My main research interest lies in heterogeneous cloud and edge security. I focus on both scheduler security and side-channel attack &amp; defense in heterogeneous computing resources like FPGAs. I also expolore how LLM techniques can be applied to to the field of system security.
 
 I'll be on the academic job market later this year.
 
