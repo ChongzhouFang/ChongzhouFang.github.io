@@ -9,7 +9,7 @@ redirect_from:
   - /resume
 ---
 
-<p>Updated PDF version of my <a href="{{ page.cv }}">CV</a> and my shorter <a href="{{ page.resume }}">resume</a>.</p>
+<p>Updated PDF version of my <a href="{{ page.cv }}">CV</a>.</p>
 
 {% include base_path %}
 
