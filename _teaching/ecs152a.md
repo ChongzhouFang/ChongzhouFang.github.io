@@ -1,5 +1,5 @@
 ---
-title: "EEC 152A: Computer Networks"
+title: "ECS 152A: Computer Networks"
 collection: teaching
 type: "Teaching Assistant, Winter 2022 & 2024"
 # permalink: /teaching/eec152a
