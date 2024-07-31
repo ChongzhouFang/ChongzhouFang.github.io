@@ -54,6 +54,10 @@ h5,
 h6 {
 color: #141414;
 }
+sup {
+    vertical-align: super;
+    font-size: smaller;
+}
 
 /* only apply to the first occurrence of h1 */
 h1:nth-of-type(1) {
