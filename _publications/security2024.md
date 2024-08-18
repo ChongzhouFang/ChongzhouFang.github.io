@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/security2024
 excerpt: '<b>Chongzhou Fang</b>, Ning Miao, Shaurya Srivastav, Jialin Liu, Ruoyu Zhang, Ruijie Fang, Asmita Asmita, Ryan Tsang, Najmeh Nazari, Han Wang and Houman Homayoun'
 date: 2024-08-14
-venue: 'Usenix Security Symposium 2024'
+venue: 'Usenix Security Symposium 2024 (Accpetance rate: 17.3%)'
 paperurl: 'https://www.usenix.org/conference/usenixsecurity24/presentation/fang'
-# slidesurl: 'https://chongzhoufang.github.io/files/CCS2023slides.pdf'
+slidesurl: 'https://chongzhoufang.github.io/files/security2024slides.pdf'
 ---

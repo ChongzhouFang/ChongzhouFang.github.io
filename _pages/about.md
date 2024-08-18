@@ -12,9 +12,10 @@ I am Chongzhou Fang, a PhD candidate at University of California, Davis. My main
 I'll be on the academic job market later this year.
 
 ## News
+- Aug. 2024: I presented our [evaluation for LLM for code analysis](https://chongzhoufang.github.io/files/security2024slides.pdf) at Usenix Security'24 in Philadelphia.
 - Jun. 2024: Our paper about defence against bit-flip attacks was accepted by Usenix Security 2024.
 - Feb. 2024: Our LLM analysis paper and LLM fuzzing paper were accepted by Usenix Security 2024.
-- Nov. 2023: I presented [FPGA fingerprinting attack paper](https://chongzhoufang.github.io/files/CCS2023slides.pdf) at CCS'23 in Copenhagen, Denmark.
+- Nov. 2023: I presented [FPGA fingerprinting attack paper](https://chongzhoufang.github.io/files/CCS2023slides.pdf) at CCS'23 in Copenhagen.
 - Nov. 2023: Our SpecScope paper was accepted by DATE 2024.
 - Oct. 2023: I was awarded the travel grant to attend ACM CCS 2023.
 - Jul. 2023: Our ML side-channel attack paper was accepted by ICCAD 2023.
