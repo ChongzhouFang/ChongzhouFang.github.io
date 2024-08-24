@@ -60,13 +60,13 @@
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl and post.slidesurl and post.mediaurl %}
-      <div class="wordwrap"> [<a href=" {{ post.paperurl }} ">paper</a>] [<a href=" {{ post.slidesurl }} ">slides</a>] [<a href=" {{ post.mediaurl }} ">{{ post.mediasource }}</a>]</div>
+      <div class="wordwrap"> [<a href=" {{ post.paperurl }} ">Paper</a>] [<a href=" {{ post.slidesurl }} ">Slides</a>] [<a href=" {{ post.mediaurl }} ">{{ post.mediasource }}</a>]</div>
     {% elsif post.paperurl and post.mediaurl %}
-      <div class="wordwrap"> [<a href=" {{ post.paperurl }} ">paper</a>] [<a href=" {{ post.mediaurl }} ">{{ post.mediasource }}</a>]</div>
+      <div class="wordwrap"> [<a href=" {{ post.paperurl }} ">Paper</a>] [<a href=" {{ post.mediaurl }} ">{{ post.mediasource }}</a>]</div>
     {% elsif post.paperurl and post.slidesurl%}
-      <div class="wordwrap"> [<a href=" {{ post.paperurl }} ">paper</a>] [<a href=" {{ post.slidesurl }} ">slides</a>]</div>
+      <div class="wordwrap"> [<a href=" {{ post.paperurl }} ">Paper</a>] [<a href=" {{ post.slidesurl }} ">Slides</a>]</div>
     {% elsif post.paperurl%}
-      <div class="wordwrap"> [<a href=" {{ post.paperurl }} ">paper</a>]</div>
+      <div class="wordwrap"> [<a href=" {{ post.paperurl }} ">Paper</a>]</div>
     {% endif %}
 
   </article>
