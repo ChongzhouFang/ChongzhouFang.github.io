@@ -8,5 +8,4 @@ venue: 'Usenix Security Symposium 2024'
 paperurl: 'https://www.usenix.org/conference/usenixsecurity24/presentation/asmita'
 mediaurl: 'https://www.usenix.org/publications/loginonline/fuzzing-busybox-leveraging-llm-and-crash-reuse-embedded-bug-unearthing'
 mediasource: '<em>;login:</em> Article'
-# slidesurl: 'https://chongzhoufang.github.io/files/CCS2023slides.pdf'
 ---
