@@ -11,6 +11,12 @@ I am Chongzhou Fang, a PhD candidate at University of California, Davis. My main
 
 ### <span style="color:red">I am on the academic job market!</span>
 
+## Publication Highlights
+<div style="display: flex; justify-content: space-between;">
+  <div><strong>UsenixSecurity'24</strong></div>
+  <div>Large Language Models for Code Analysis: Do LLMs Really Do Their Job?</div>
+</div>
+
 ## News
 - Oct. 2024: [Our FPGA attack paper](https://dl.acm.org/doi/10.1145/3576915.3616606) got into the final list of CSAW'24 Applied Research Competition.
 - Aug. 2024: I presented our [evaluation for LLM for code analysis](https://chongzhoufang.github.io/files/security2024slides.pdf) at Usenix Security'24 in Philadelphia.
