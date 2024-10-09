@@ -1,5 +1,5 @@
 ---
-title: "Don’t cross me! cross-layer system security"
+title: "Don’t Cross Me! Cross-Layer System Security"
 collection: publications
 permalink: /publication/dac2023-najmeh
 excerpt: 'Najmeh Nazari, <b>Chongzhou Fang</b>, Sai Manoj PD, Houman Homayoun'
