@@ -15,7 +15,7 @@ I am Chongzhou Fang, a PhD candidate at University of California, Davis. My main
 <div style="display: flex; justify-content: space-between; gap: 40px; align-items: flex-start;">
   <div style="flex: 1;"><strong>[Usenix Security 2024]</strong></div>
   <div style="flex: 2;">
-    Large Language Models for Code Analysis: Do LLMs Really Do Their Job?
+    <strong>Large Language Models for Code Analysis: Do LLMs Really Do Their Job?</strong>
     <br>
     <small><b>Chongzhou Fang</b>, Ning Miao, Shaurya Srivastav, Jialin Liu, Ruoyu Zhang, Ruijie Fang, Asmita Asmita, Ryan Tsang, Najmeh Nazari, Han Wang and Houman Homayoun</small>
   </div>
@@ -24,7 +24,7 @@ I am Chongzhou Fang, a PhD candidate at University of California, Davis. My main
 <div style="display: flex; justify-content: space-between; gap: 40px; align-items: flex-start;">
   <div style="flex: 1;"><strong>[Usenix Security 2024]</strong></div>
   <div style="flex: 2;">
-    Forget and Rewire: Enhancing the Resilience of Transformer-based Models against Bit-Flip Attacks
+    <strong>Forget and Rewire: Enhancing the Resilience of Transformer-based Models against Bit-Flip Attacks</strong>
     <br>
     <small>Najmeh Nazari, Hosein Mohammadi Makrani, <b>Chongzhou Fang</b>, Hossein Sayadi, Setareh Rafatirad, Khaled N. Khasawneh and Houman Homayoun</small>
   </div>
@@ -33,7 +33,7 @@ I am Chongzhou Fang, a PhD candidate at University of California, Davis. My main
 <div style="display: flex; justify-content: space-between; gap: 40px; align-items: flex-start;">
   <div style="flex: 1;"><strong>[Usenix Security 2024]</strong></div>
   <div style="flex: 2;">
-    Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug Unearthing
+    <strong>Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug Unearthing</strong>
     <br>
     <small>Asmita Asmita, Yaroslav Oliinyk, Michael Scott, Ryan Tsang, <b>Chongzhou Fang</b> and Houman Homayoun</small>
   </div>
