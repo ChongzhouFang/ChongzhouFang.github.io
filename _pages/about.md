@@ -12,11 +12,12 @@ I am Chongzhou Fang, a PhD candidate at University of California, Davis. My main
 ### <span style="color:red">I am on the academic job market!</span>
 
 ## Publication Highlights
-<div style="display: flex; justify-content: space-between;">
-  <div><strong>UsenixSecurity'24</strong></div>
-  <div>
+<div style="display: flex; justify-content: space-between; gap: 40px; align-items: flex-start;">
+  <div style="flex: 1;"><strong>[Usenix Security 2024]</strong></div>
+  <div style="flex: 2;">
     Large Language Models for Code Analysis: Do LLMs Really Do Their Job?
-    <br><b>Chongzhou Fang</b>, Ning Miao, Shaurya Srivastav, Jialin Liu, Ruoyu Zhang, Ruijie Fang, Asmita Asmita, Ryan Tsang, Najmeh Nazari, Han Wang and Houman Homayoun
+    <br>
+    <small><b>Chongzhou Fang</b>, Ning Miao, Shaurya Srivastav, Jialin Liu, Ruoyu Zhang, Ruijie Fang, Asmita Asmita, Ryan Tsang, Najmeh Nazari, Han Wang and Houman Homayoun</small>
   </div>
 </div>
 
