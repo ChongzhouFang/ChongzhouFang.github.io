@@ -21,6 +21,25 @@ I am Chongzhou Fang, a PhD candidate at University of California, Davis. My main
   </div>
 </div>
 
+<div style="display: flex; justify-content: space-between; gap: 40px; align-items: flex-start;">
+  <div style="flex: 1;"><strong>[Usenix Security 2024]</strong></div>
+  <div style="flex: 2;">
+    Forget and Rewire: Enhancing the Resilience of Transformer-based Models against Bit-Flip Attacks
+    <br>
+    <small>Najmeh Nazari, Hosein Mohammadi Makrani, <b>Chongzhou Fang</b>, Hossein Sayadi, Setareh Rafatirad, Khaled N. Khasawneh and Houman Homayoun</small>
+  </div>
+</div>
+
+<div style="display: flex; justify-content: space-between; gap: 40px; align-items: flex-start;">
+  <div style="flex: 1;"><strong>[Usenix Security 2024]</strong></div>
+  <div style="flex: 2;">
+    Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug Unearthing
+    <br>
+    <small>Asmita Asmita, Yaroslav Oliinyk, Michael Scott, Ryan Tsang, <b>Chongzhou Fang</b> and Houman Homayoun</small>
+  </div>
+</div>
+
+
 ## News
 - Oct. 2024: [Our FPGA attack paper](https://dl.acm.org/doi/10.1145/3576915.3616606) got into the final list of CSAW'24 Applied Research Competition.
 - Aug. 2024: I presented our [evaluation for LLM for code analysis](https://chongzhoufang.github.io/files/security2024slides.pdf) at Usenix Security'24 in Philadelphia.
