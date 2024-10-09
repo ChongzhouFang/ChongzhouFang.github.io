@@ -44,7 +44,7 @@ I am Chongzhou Fang, a PhD candidate at University of California, Davis. My main
   <div style="flex: 2;">
     <strong>SpecScope: Automating Discovery of Exploitable Spectre Gadgets on Black-box Microarchitectures</strong>
     <br>
-    <small>Najmeh Nazari\*, Behnam Omidi\*, <b>Chongzhou Fang</b>, Hosein Mohammadi Makrani, Setareh Rafatirad, Avesta Sasan, Houman Homayoun and Khaled N. Khasawneh</small>
+    <small>Najmeh Nazari*, Behnam Omidi*, <b>Chongzhou Fang</b>, Hosein Mohammadi Makrani, Setareh Rafatirad, Avesta Sasan, Houman Homayoun and Khaled N. Khasawneh</small>
   </div>
 </div>
 
