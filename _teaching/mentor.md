@@ -1,5 +1,5 @@
 ---
-title: "Graduate mentor for undergraduate students"
+title: "Graduate Student Mentor for Undergraduate Students"
 collection: teaching
 type: "Graduate Mentor"
 # permalink: /teaching/mentor
