@@ -13,7 +13,7 @@ I am Chongzhou Fang, a PhD candidate at University of California, Davis. My main
 
 ## Publication Highlights
 <div style="display: flex; justify-content: space-between; gap: 40px; align-items: flex-start;">
-  <div style="flex: 1;"><strong>[Usenix Security 2024]</strong></div>
+  <div style="flex: 1;"><strong>[UsenixSecurity'24]</strong></div>
   <div style="flex: 2;">
     <strong>Large Language Models for Code Analysis: Do LLMs Really Do Their Job?</strong>
     <br>
@@ -22,7 +22,7 @@ I am Chongzhou Fang, a PhD candidate at University of California, Davis. My main
 </div>
 
 <div style="display: flex; justify-content: space-between; gap: 40px; align-items: flex-start;">
-  <div style="flex: 1;"><strong>[Usenix Security 2024]</strong></div>
+  <div style="flex: 1;"><strong>[UsenixSecurity'24]</strong></div>
   <div style="flex: 2;">
     <strong>Forget and Rewire: Enhancing the Resilience of Transformer-based Models against Bit-Flip Attacks</strong>
     <br>
@@ -31,13 +31,27 @@ I am Chongzhou Fang, a PhD candidate at University of California, Davis. My main
 </div>
 
 <div style="display: flex; justify-content: space-between; gap: 40px; align-items: flex-start;">
-  <div style="flex: 1;"><strong>[Usenix Security 2024]</strong></div>
+  <div style="flex: 1;"><strong>[UsenixSecurity'24]</strong></div>
   <div style="flex: 2;">
     <strong>Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug Unearthing</strong>
     <br>
     <small>Asmita Asmita, Yaroslav Oliinyk, Michael Scott, Ryan Tsang, <b>Chongzhou Fang</b> and Houman Homayoun</small>
   </div>
 </div>
+
+<div style="display: flex; justify-content: space-between; gap: 40px; align-items: flex-start;">
+  <div style="flex: 1;">
+    <strong>[CCS'23]</strong>
+    <br>
+    <span style="color: red;"><strong>CSAW'24 Finalisted</strong></span>
+  </div>
+  <div style="flex: 2;">
+    <strong>Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug Unearthing</strong>
+    <br>
+    <small>Asmita Asmita, Yaroslav Oliinyk, Michael Scott, Ryan Tsang, <b>Chongzhou Fang</b> and Houman Homayoun</small>
+  </div>
+</div>
+
 
 
 ## News
