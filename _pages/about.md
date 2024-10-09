@@ -12,7 +12,7 @@ I am Chongzhou Fang, a PhD candidate at University of California, Davis. My main
 ### <span style="color:red">I am on the academic job market!</span>
 
 ## Publication Highlights
-<div style="display: flex; justify-content: space-between; gap: 40px; align-items: flex-start;">
+<div style="display: flex; justify-content: space-between; gap: 40px; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 1;"><strong>[UsenixSecurity'24]</strong></div>
   <div style="flex: 2;">
     <strong>Large Language Models for Code Analysis: Do LLMs Really Do Their Job?</strong>
@@ -21,7 +21,7 @@ I am Chongzhou Fang, a PhD candidate at University of California, Davis. My main
   </div>
 </div>
 
-<div style="display: flex; justify-content: space-between; gap: 40px; align-items: flex-start;">
+<div style="display: flex; justify-content: space-between; gap: 40px; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 1;"><strong>[UsenixSecurity'24]</strong></div>
   <div style="flex: 2;">
     <strong>Forget and Rewire: Enhancing the Resilience of Transformer-based Models against Bit-Flip Attacks</strong>
@@ -30,7 +30,7 @@ I am Chongzhou Fang, a PhD candidate at University of California, Davis. My main
   </div>
 </div>
 
-<div style="display: flex; justify-content: space-between; gap: 40px; align-items: flex-start;">
+<div style="display: flex; justify-content: space-between; gap: 40px; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 1;"><strong>[UsenixSecurity'24]</strong></div>
   <div style="flex: 2;">
     <strong>Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug Unearthing</strong>
@@ -39,20 +39,36 @@ I am Chongzhou Fang, a PhD candidate at University of California, Davis. My main
   </div>
 </div>
 
-<div style="display: flex; justify-content: space-between; gap: 40px; align-items: flex-start;">
+<div style="display: flex; justify-content: space-between; gap: 40px; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 1;">
     <strong>[CCS'23]</strong>
     <br>
     <span style="color: red;"><strong>CSAW'24 Finalisted</strong></span>
   </div>
   <div style="flex: 2;">
-    <strong>Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug Unearthing</strong>
+    <strong>Gotcha! I Know What You are Doing on the FPGA Cloud: Fingerprinting Co-Located Cloud FPGA Accelerators via Measuring Communication Links</strong>
     <br>
-    <small>Asmita Asmita, Yaroslav Oliinyk, Michael Scott, Ryan Tsang, <b>Chongzhou Fang</b> and Houman Homayoun</small>
+    <small><b>Chongzhou Fang</b>, Ning Miao, Han Wang, Jiacheng Zhou, Tyler Sheaves, John M. Emmert, Avesta Sasan and Houman Homayoun</small>
   </div>
 </div>
 
+<div style="display: flex; justify-content: space-between; gap: 40px; align-items: flex-start; margin-bottom: 20px;">
+  <div style="flex: 1;"><strong>[NDSS'23]</strong></div>
+  <div style="flex: 2;">
+    <strong>HeteroScore: Evaluating and Mitigating Cloud Security Threats Brought by Heterogeneity</strong>
+    <br>
+    <small><b>Chongzhou Fang</b>, Najmeh Nazari, Behnam Omidi, Han Wang, Aditya Puri, Manish Arora, Setareh Rafatirad, Houman Homayoun and Khaled N. Khasawneh</small>
+  </div>
+</div>
 
+<div style="display: flex; justify-content: space-between; gap: 40px; align-items: flex-start; margin-bottom: 20px;">
+  <div style="flex: 1;"><strong>[NDSS'22]</strong></div>
+  <div style="flex: 2;">
+    <strong>Repttack: Exploiting Cloud Schedulers to Guide Co-Location Attacks</strong>
+    <br>
+    <small><b>Chongzhou Fang</b>, Han Wang, Najmeh Nazari, Behnam Omidi, Avesta Sasan, Khaled N. Khasawneh, Setareh Rafatirad and Houman Homayoun</small>
+  </div>
+</div>
 
 ## News
 - Oct. 2024: [Our FPGA attack paper](https://dl.acm.org/doi/10.1145/3576915.3616606) got into the final list of CSAW'24 Applied Research Competition.
