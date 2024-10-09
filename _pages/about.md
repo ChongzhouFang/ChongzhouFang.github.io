@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Chongzhou Fang, a PhD candidate at University of California, Davis. My main research interest lies in heterogeneous cloud and edge security. I focus on both scheduler security and side-channel attack &amp; defense in heterogeneous computing resources like FPGAs. I also expolore how LLM techniques can be applied to to the field of system security.
+I am Chongzhou Fang, a PhD candidate at University of California, Davis. My main research interest lies in system security. I focus on both cloud scheduler security and side-channel attack &amp; defense in heterogeneous computing resources like FPGAs. I also expolore how LLM techniques can be applied to to the field of system security.
 
 ### <span style="color:red">I am on the academic job market!</span>
 
@@ -36,6 +36,15 @@ I am Chongzhou Fang, a PhD candidate at University of California, Davis. My main
     <strong>Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug Unearthing</strong>
     <br>
     <small>Asmita Asmita, Yaroslav Oliinyk, Michael Scott, Ryan Tsang, <b>Chongzhou Fang</b> and Houman Homayoun</small>
+  </div>
+</div>
+
+<div style="display: flex; justify-content: space-between; gap: 40px; align-items: flex-start; margin-bottom: 20px;">
+  <div style="flex: 1;"><strong>[DATE'24]</strong></div>
+  <div style="flex: 2;">
+    <strong>SpecScope: Automating Discovery of Exploitable Spectre Gadgets on Black-box Microarchitectures</strong>
+    <br>
+    <small>Najmeh Nazari\*, Behnam Omidi\*, <b>Chongzhou Fang</b>, Hosein Mohammadi Makrani, Setareh Rafatirad, Avesta Sasan, Houman Homayoun and Khaled N. Khasawneh</small>
   </div>
 </div>
 
