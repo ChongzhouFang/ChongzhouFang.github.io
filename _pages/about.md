@@ -52,7 +52,7 @@ I am Chongzhou Fang, a PhD candidate at University of California, Davis. My main
   <div style="flex: 1;">
     <strong>[CCS'23]</strong>
     <br>
-    <span style="color: red;"><strong>CSAW'24 Finalisted</strong></span>
+    <span style="color: red;"><strong>CSAW'24 Finalist</strong></span>
   </div>
   <div style="flex: 2;">
     <strong>Gotcha! I Know What You are Doing on the FPGA Cloud: Fingerprinting Co-Located Cloud FPGA Accelerators via Measuring Communication Links</strong>
