@@ -1,5 +1,5 @@
 ---
-title: "ECS 152A: Computer Networks (~50 Students)"
+title: "ECS 152A: Computer Networks (~180 Students)"
 collection: teaching
 type: "Teaching Assistant, Winter 2022 & 2024"
 # permalink: /teaching/eec152a
