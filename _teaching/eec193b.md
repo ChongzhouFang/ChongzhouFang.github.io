@@ -1,5 +1,5 @@
 ---
-title: "EEC 193B: Internet of Things Project"
+title: "EEC 193B: Internet of Things Project (~20 Students)"
 collection: teaching
 type: "Teaching Assistant, Spring 2022"
 # permalink: /teaching/eec193b
