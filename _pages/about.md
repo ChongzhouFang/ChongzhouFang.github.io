@@ -80,7 +80,7 @@ I am Chongzhou Fang, a PhD candidate at University of California, Davis. My main
 </div>
 
 ## News
-- Oct. 2024: [Our FPGA attack paper](https://dl.acm.org/doi/10.1145/3576915.3616606) got into the final list of CSAW'24 Applied Research Competition.
+- Oct. 2024: [Our FPGA attack paper](https://dl.acm.org/doi/10.1145/3576915.3616606) got into the finalists of CSAW'24 Applied Research Competition.
 - Aug. 2024: I presented our [evaluation for LLM for code analysis](https://chongzhoufang.github.io/files/security2024slides.pdf) at Usenix Security'24 in Philadelphia.
 - Jun. 2024: Our paper about defence against bit-flip attacks was accepted by Usenix Security 2024.
 - Feb. 2024: Our LLM analysis paper and LLM fuzzing paper were accepted by Usenix Security 2024.
