@@ -39,6 +39,15 @@ I am Chongzhou Fang, a PhD candidate at University of California, Davis. My main
 </div>
 
 <div style="display: flex; justify-content: space-between; gap: 40px; align-items: flex-start; margin-bottom: 20px;">
+  <div style="flex: 1;"><strong>[DAC'24]</strong></div>
+  <div style="flex: 2;">
+    <strong>Architectural Whispers: Unveiling Machine Learning Models with Frequency Throttling Side-Channel Fingerprinting</strong>
+    <br>
+    <small>Najmeh Nazari, <b>Chongzhou Fang</b>, Hosein Mohammadi Makrani, Behnam Omidi, Setareh Rafatirad, Avesta Sasan, Hossein Sayadi, Houman Homayoun and Khaled N. Khasawneh</small>
+  </div>
+</div>
+
+<div style="display: flex; justify-content: space-between; gap: 40px; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 1;"><strong>[DATE'24]</strong></div>
   <div style="flex: 2;">
     <strong>SpecScope: Automating Discovery of Exploitable Spectre Gadgets on Black-box Microarchitectures</strong>
@@ -46,6 +55,8 @@ I am Chongzhou Fang, a PhD candidate at University of California, Davis. My main
     <small>Najmeh Nazari*, Behnam Omidi*, <b>Chongzhou Fang</b>, Hosein Mohammadi Makrani, Setareh Rafatirad, Avesta Sasan, Houman Homayoun and Khaled N. Khasawneh</small>
   </div>
 </div>
+
+
 
 <div style="display: flex; justify-content: space-between; gap: 40px; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 1;">
@@ -59,6 +70,16 @@ I am Chongzhou Fang, a PhD candidate at University of California, Davis. My main
     <small><b>Chongzhou Fang</b>, Ning Miao, Han Wang, Jiacheng Zhou, Tyler Sheaves, John M. Emmert, Avesta Sasan and Houman Homayoun</small>
   </div>
 </div>
+
+<div style="display: flex; justify-content: space-between; gap: 40px; align-items: flex-start; margin-bottom: 20px;">
+  <div style="flex: 1;"><strong>[ICCAD'23]</strong></div>
+  <div style="flex: 2;">
+    <strong>Side Channel-assisted Inference Attack on Machine Learning-based ECG Classification</strong>
+    <br>
+    <small>Jialin Liu, Houman Homayoun, <b>Chongzhou Fang</b>, Ning Miao and Han Wang</small>
+  </div>
+</div>
+
 
 <div style="display: flex; justify-content: space-between; gap: 40px; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 1;"><strong>[NDSS'23]</strong></div>
