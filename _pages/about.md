@@ -11,9 +11,9 @@ I am Chongzhou Fang, a PhD candidate at University of California, Davis. My main
 
 I will join Rochester Institute of Technology as a tenure-track assistant professor in fall 2025! 
 
-<span style="color: red;"><strong>I’m looking for highly motivated Ph.D. students to join my research group at RIT!</strong></span> I am hiring 1–2 Ph.D. students at RIT to start in <b>Fall 2025</b>. If you’re interested, please email me your CV along with any relevant supporting materials (e.g., finished papers, demos). 
+<span style="color: red;"><strong>[I'm hiring!]</strong></span> <b>I am looking for 1–2 highly motivated Ph.D. students to start in Fall 2025 at RIT. If you’re interested, please email me your CV along with any relevant supporting materials (e.g., finished papers, demos).</b> 
 
-Let’s explore the world of cybersecurity together!
+<p><i>Let’s explore the world of computer security together!</i></p>
 
 ## Publication Highlights
 <div style="display: flex; justify-content: space-between; gap: 40px; align-items: flex-start; margin-bottom: 20px;">
