@@ -9,11 +9,11 @@ redirect_from:
 
 I am Chongzhou Fang, a PhD candidate at University of California, Davis. My main research interest lies in system and hardware security. I focus on both cloud scheduler security and side-channel attack &amp; defense in heterogeneous computing resources like FPGAs. I also expolore how LLM techniques can be applied to to the field of cybersecurity.
 
-I will join Rochester Institute of Technology as a tenure-track assistant professor in fall 2025! 
+<!-- I will join Rochester Institute of Technology as a tenure-track assistant professor in fall 2025! 
 
 <span style="color: red;"><strong>[I'm hiring!]</strong></span> <b>I am looking for 1–2 highly motivated Ph.D. students to start in Fall 2025 at RIT. If you’re interested, please email me your CV along with any relevant supporting materials (e.g., finished papers, demos).</b> 
 
-<p><i>Let’s explore the world of computer security together!</i></p>
+<p><i>Let’s explore the world of computer security together!</i></p> -->
 
 ## Publication Highlights
 <div style="display: flex; justify-content: space-between; gap: 40px; align-items: flex-start; margin-bottom: 20px;">
@@ -106,7 +106,7 @@ I will join Rochester Institute of Technology as a tenure-track assistant profes
 
 ## News
 - Mar. 2025: I will serve on the TPC for NDSS'26.
-- Mar. 2025: I will join Rochester Institute of Technology as an Assistant Professor this fall.
+<!-- - Mar. 2025: I will join Rochester Institute of Technology as an Assistant Professor this fall. -->
 - Nov. 2024: [Our FPGA attack paper](https://dl.acm.org/doi/10.1145/3576915.3616606) was selected as the Runner-Up for the Technical Impact Award during the CSAW '24 Applied Research Competition.
 - Oct. 2024: [Our FPGA attack paper](https://dl.acm.org/doi/10.1145/3576915.3616606) was selected as a finalist in the CSAW '24 Applied Research Competition (15 out of 194 submissions).
 - Aug. 2024: I presented our [evaluation for LLM for code analysis](https://chongzhoufang.github.io/files/security2024slides.pdf) at Usenix Security'24 in Philadelphia.
