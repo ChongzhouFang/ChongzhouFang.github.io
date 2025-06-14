@@ -11,7 +11,7 @@ I am Chongzhou Fang, a PhD candidate at University of California, Davis. My main
 
 I will join Rochester Institute of Technology as a tenure-track assistant professor in fall 2025! 
 
-<span style="color: red;"><strong>[I'm hiring!]</strong></span> <b>I am looking for 1–2 highly motivated Ph.D. students to start in Fall 2025 at RIT. If you’re interested, please email me your CV along with any relevant supporting materials (e.g., finished papers, demos). My email: chongzhoufang at gmail dot com.</b> 
+<span style="color: red;"><strong>[I'm hiring!]</strong></span> <b>I am looking for 1–2 highly motivated Ph.D. students to start in Fall 2026 at RIT. If you’re interested, please email me your CV along with any relevant supporting materials (e.g., finished papers, demos). My email: chongzhoufang at gmail dot com.</b> 
 
 <p><i>Let’s explore the world of computer security together!</i></p>
 
@@ -127,5 +127,5 @@ I will join Rochester Institute of Technology as a tenure-track assistant profes
 - Jun. 2022: I started my internship at Intel PSG and will be working on novel FPGA security features for the next 3 months.
 - Apr. 2022: I presented [Repttack](https://chongzhoufang.github.io/files/NDSS2022slides.pdf) at NDSS 2022 in San Diego.
 - Sep. 2021: [Our cloud attack paper](https://www.ndss-symposium.org/ndss-paper/auto-draft-237/) was accepted by NDSS 2022.
-- Sep. 2020: I started my journey of Ph.D. at UC Davis. I am thrilled to have the chance to work with Prof. Houman Homayoun, Prof. Khasawneh and other awesome lab members!
+<!-- - Sep. 2020: I started my journey of Ph.D. at UC Davis. I am thrilled to have the chance to work with Prof. Houman Homayoun, Prof. Khasawneh and other awesome lab members! -->
 
