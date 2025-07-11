@@ -18,7 +18,7 @@ Education
 * Ph.D in Computer Engineering, University of California, Davis, CA, USA 2020-2025
 * B.Eng in Information Engineering, Southeast University, Nanjing, China, 2016-2020
 
-Industry experience
+<!-- Industry experience
 ======
 * Summer 2022: Intel PSG
-  * Developing security features for Intel FPGAs.
+  * Developing security features for Intel FPGAs. -->
