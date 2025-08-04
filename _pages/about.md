@@ -16,6 +16,14 @@ I am Chongzhou Fang, an incoming tenure-track assistant professor at Rochester I
 
 ## Publication Highlights
 <div style="display: flex; justify-content: space-between; gap: 40px; align-items: flex-start; margin-bottom: 20px;">
+  <div style="flex: 1;"><strong>[NDSS'26]</strong></div>
+  <div style="flex: 2;">
+    <strong>Know Me by My Pulse: Toward Practical Continuous Authentication on Wearable Devices via Wrist-Worn PPG</strong>
+    <br>
+    <small>Wei Shao, Zequan Liang, Ruoyu Zhang, Ruijie Fang, Ning Miao, Ehsan Kourkchi, Setareh Rafatirad, Houman Homayoun and <b>Chongzhou Fang</b></small>
+  </div>
+</div>
+<div style="display: flex; justify-content: space-between; gap: 40px; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 1;"><strong>[UsenixSecurity'24]</strong></div>
   <div style="flex: 2;">
     <strong>Large Language Models for Code Analysis: Do LLMs Really Do Their Job?</strong>
@@ -104,6 +112,7 @@ I am Chongzhou Fang, an incoming tenure-track assistant professor at Rochester I
 </div>
 
 ## News
+- Aug. 2025: Our paper about continuous authentication based on PPG was accepted by NDSS 2026.
 - Mar. 2025: I will serve on the TPC for NDSS'26.
 - Mar. 2025: I will join Rochester Institute of Technology as an Assistant Professor this fall.
 - Nov. 2024: [Our FPGA attack paper](https://dl.acm.org/doi/10.1145/3576915.3616606) was selected as the Runner-Up for the Technical Impact Award during the CSAW '24 Applied Research Competition.
