@@ -10,7 +10,7 @@ author_profile: false
   {% for student in site.students %}
     <div>
       {% if student.photo %}
-        <img src="{{ student.photo | relative_url }}" alt="{{ student.name }}" style="width:150px; height:auto; border-radius:8px;" />
+        <img src="{{ student.photo | relative_url }}" alt="{{ student.name }}" style="width:180px; height:auto; border-radius:8px;" />
       {% endif %}
       <h3>{{ student.name }}</h3>
       <p><strong>Starting:</strong> {{ student.starting }}</p>
