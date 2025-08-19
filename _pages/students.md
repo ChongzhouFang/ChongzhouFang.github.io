@@ -11,7 +11,7 @@ author_profile: true
   {% for student in site.students %}
     <div>
       {% if student.photo %}
-        <img src="{{ student.photo | relative_url }}" alt="{{ student.name }}" class="student-photo"/>
+        <img src="{{ student.photo }}" alt="{{ student.name }}" class="student-photo"/>
       {% endif %}
       <h3>{{ student.name }}</h3>
       <p><strong>Starting:</strong> {{ student.starting }}</p>
