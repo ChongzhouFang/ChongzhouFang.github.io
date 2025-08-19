@@ -9,7 +9,7 @@ author_profile: true
 
 <div class="students-grid">
   {% for student in site.students %}
-    <div class="student-card">
+    <div>
       {% if student.photo %}
         <img src="{{ student.photo | relative_url }}" alt="{{ student.name }}" class="student-photo"/>
       {% endif %}
