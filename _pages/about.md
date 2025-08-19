@@ -10,7 +10,7 @@ redirect_from:
 I am Chongzhou Fang, an assistant professor at Rochester Institute of Technology (RIT). Prior to that, I obtained my Doctoral degree at University of California, Davis. My main research interest lies in system and hardware security. I focus on both cloud scheduler security and side-channel attack &amp; defense in heterogeneous computing resources like FPGAs. I also expolore how LLM techniques can be applied to to the field of cybersecurity.
 
 
-<span style="color: red;"><strong>[I'm hiring!]</strong></span> <b>I am looking for 1–2 highly motivated Ph.D. students to start in Fall <i>2026</i> at RIT. I am also recruiting master students at RIT to join my lab. If you’re interested, please email me your CV along with any relevant supporting materials (e.g., finished papers, demos). My email: cxfeec <i>at</i> rit.edu</b> 
+<span style="color: red;"><strong>[I'm hiring!]</strong></span> <b>I am looking for 1–2 highly motivated Ph.D. students to start in Fall <i>2026</i> at RIT. I am also recruiting master students who are already at RIT to join my lab. If you’re interested, please email me your CV along with any relevant supporting materials (e.g., finished papers, demos). My email: cxfeec <i>at</i> rit.edu</b> 
 
 <p><i>Let’s explore the world of computer security together!</i></p>
 
