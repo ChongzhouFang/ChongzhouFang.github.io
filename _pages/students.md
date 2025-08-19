@@ -20,7 +20,7 @@ author_profile: false
 
 <style>
 .student-photo {
-  width: 250px;   /* shrink image */
+  width: 150px;   /* shrink image */
   height: auto;   /* keep proportions */
   border-radius: 8px;
 }
