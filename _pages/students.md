@@ -5,13 +5,11 @@ permalink: /students/
 author_profile: false
 ---
 
-{% include base_path %}
-
-<div>
+<div class="students-grid">
   {% for student in site.students %}
-    <div>
+    <div class="student-card">
       {% if student.photo %}
-        <img src="{{ student.photo }}" alt="{{ student.name }}" style="width:50px; height:auto; border-radius:8px;"/>
+        <img class="student-photo" src="{{ student.photo }}" alt="{{ student.name }}" />
       {% endif %}
       <h3>{{ student.name }}</h3>
       <p><strong>Starting:</strong> {{ student.starting }}</p>
@@ -19,3 +17,20 @@ author_profile: false
     </div>
   {% endfor %}
 </div>
+
+<style>
+.student-photo {
+  width: 150px;   /* shrink image */
+  height: auto;   /* keep proportions */
+  border-radius: 8px;
+}
+.students-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+}
+.student-card {
+  max-width: 200px;
+  text-align: center;
+}
+</style>
