@@ -7,11 +7,11 @@ author_profile: false
 
 {% include base_path %}
 
-<div class="students-grid">
+<div>
   {% for student in site.students %}
     <div>
       {% if student.photo %}
-        <img src="{{ student.photo }}" alt="{{ student.name }}" class="student-photo"/>
+        <img src="{{ student.photo }}" alt="{{ student.name }}" />
       {% endif %}
       <h3>{{ student.name }}</h3>
       <p><strong>Starting:</strong> {{ student.starting }}</p>
