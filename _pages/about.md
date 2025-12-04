@@ -18,6 +18,14 @@ I am Chongzhou Fang, an assistant professor at Rochester Institute of Technology
 <div style="display: flex; justify-content: space-between; gap: 40px; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 1;"><strong>[NDSS'26]</strong></div>
   <div style="flex: 2;">
+    <strong>Bit of a Close Talker: A Practical Guide to Serverless Cloud Co-Location Attacks</strong>
+    <br>
+    <small>Wei Shao, Najmeh Nazari, Behnam Omidi, Setareh Rafatirad, Khaled Khasawneh, Houman Homayoun and <b>Chongzhou Fang</b></small>
+  </div>
+</div>
+<div style="display: flex; justify-content: space-between; gap: 40px; align-items: flex-start; margin-bottom: 20px;">
+  <div style="flex: 1;"><strong>[NDSS'26]</strong></div>
+  <div style="flex: 2;">
     <strong>Know Me by My Pulse: Toward Practical Continuous Authentication on Wearable Devices via Wrist-Worn PPG</strong>
     <br>
     <small>Wei Shao, Zequan Liang, Ruoyu Zhang, Ruijie Fang, Ning Miao, Ehsan Kourkchi, Setareh Rafatirad, Houman Homayoun and <b>Chongzhou Fang</b></small>
@@ -112,6 +120,7 @@ I am Chongzhou Fang, an assistant professor at Rochester Institute of Technology
 </div>
 
 ## News
+- Dec. 2025: Our paper about serverless cloud co-location attack was accepted by NDSS 2026.
 - Oct. 2025: We will be organizing [LLMs for Hardware Design Challenge](https://www.iccd-conf.com/llm_competition.html) at ICCD 2025!
 - Sep. 2025: We will be hosting the [Workshop on LLM Assisted Security and Trust Exploration (LAST-X)](https://last-x-workshop.github.io/) at NDSS 2026!
 - Aug. 2025: Our paper about continuous authentication based on PPG was accepted by NDSS 2026.
