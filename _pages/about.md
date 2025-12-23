@@ -120,6 +120,7 @@ I am Chongzhou Fang, an assistant professor at Rochester Institute of Technology
 </div>
 
 ## News
+- Dec. 2025: I will serve on the TPC for HOST 2026!
 - Dec. 2025: Our paper about serverless cloud co-location attack was accepted by NDSS 2026.
 - Oct. 2025: We will be organizing [LLMs for Hardware Design Challenge](https://www.iccd-conf.com/llm_competition.html) at ICCD 2025!
 - Sep. 2025: We will be hosting the [Workshop on LLM Assisted Security and Trust Exploration (LAST-X)](https://last-x-workshop.github.io/) at NDSS 2026!
