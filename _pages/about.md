@@ -10,7 +10,7 @@ redirect_from:
 I am Chongzhou Fang, an assistant professor at Rochester Institute of Technology (RIT). Prior to that, I obtained my Doctoral degree at University of California, Davis. My main research interest lies in system and hardware security. I focus on both cloud scheduler security and side-channel attack &amp; defense in heterogeneous computing resources like FPGAs. I also expolore how LLM techniques can be applied to the field of cybersecurity.
 
 
-<span style="color: red;"><strong>[I'm hiring!]</strong></span> <b>I am looking for 1–2 highly motivated Ph.D. students to start in Fall <i>2026</i> at RIT. I am also recruiting master students who are already at RIT to join my lab. If you’re interested, please email me your CV along with any relevant supporting materials (e.g., finished papers, demos). My email: cxfeec <i>at</i> rit.edu</b> You are also welcome to drop by my office if you are already at RIT!
+<span style="color: red;"><strong>[I'm hiring!]</strong></span> <b>I am looking for 1–2 highly motivated Ph.D. students to start in Fall <i>2027</i> at RIT. I am also recruiting master students who are already at RIT to join my lab. If you’re interested, please email me your CV along with any relevant supporting materials (e.g., finished papers, demos). My email: cxfeec <i>at</i> rit.edu</b> You are also welcome to drop by my office if you are already at RIT!
 
 <p><i>Let’s explore the world of computer security together!</i></p>
 
@@ -120,13 +120,14 @@ I am Chongzhou Fang, an assistant professor at Rochester Institute of Technology
 </div>
 
 ## News
+- May 2026: I will be serving on the TPC of NDSS 2027 and ACSAC 2026.
 - Feb. 2026: Our paper about cloud simulator was accepted by CCGRID 2026.
 - Dec. 2025: I will serve on the TPC for HOST 2026!
 - Dec. 2025: Our paper about serverless cloud co-location attack was accepted by NDSS 2026.
 - Oct. 2025: We will be organizing [LLMs for Hardware Design Challenge](https://www.iccd-conf.com/llm_competition.html) at ICCD 2025!
 - Sep. 2025: We will be hosting the [Workshop on LLM Assisted Security and Trust Exploration (LAST-X)](https://last-x-workshop.github.io/) at NDSS 2026!
 - Aug. 2025: Our paper about continuous authentication based on PPG was accepted by NDSS 2026.
-- Aug. 2025: I joined Rochester Institute of Technology as an Assistant Professor.
+<!-- - Aug. 2025: I joined Rochester Institute of Technology as an Assistant Professor.
 - Mar. 2025: I will serve on the TPC for NDSS'26.
 - Nov. 2024: [Our FPGA attack paper](https://dl.acm.org/doi/10.1145/3576915.3616606) was selected as the Runner-Up for the Technical Impact Award during the CSAW '24 Applied Research Competition.
 - Oct. 2024: [Our FPGA attack paper](https://dl.acm.org/doi/10.1145/3576915.3616606) was selected as a finalist in the CSAW '24 Applied Research Competition (15 out of 194 submissions).
@@ -147,6 +148,6 @@ I am Chongzhou Fang, an assistant professor at Rochester Institute of Technology
 - Jul. 2022: Our FPGA security proposal is funded by CHEST. I will be leading the project.
 - Jun. 2022: I started my internship at Intel PSG and will be working on novel FPGA security features for the next 3 months.
 - Apr. 2022: I presented [Repttack](https://chongzhoufang.github.io/files/NDSS2022slides.pdf) at NDSS 2022 in San Diego.
-- Sep. 2021: [Our cloud attack paper](https://www.ndss-symposium.org/ndss-paper/auto-draft-237/) was accepted by NDSS 2022.
+- Sep. 2021: [Our cloud attack paper](https://www.ndss-symposium.org/ndss-paper/auto-draft-237/) was accepted by NDSS 2022. -->
 <!-- - Sep. 2020: I started my journey of Ph.D. at UC Davis. I am thrilled to have the chance to work with Prof. Houman Homayoun, Prof. Khasawneh and other awesome lab members! -->
 
