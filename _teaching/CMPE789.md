@@ -1,7 +1,7 @@
 ---
 title: "CMPE 789: Special Topics (Modern Cloud Computing)"
 collection: teaching
-type: "Instructor, Fall 2027"
+type: "Instructor, Fall 2026"
 # permalink: /teaching/eec152a
 venue: "Rochester Institute of Technology"
 # date: 2021-01-01
