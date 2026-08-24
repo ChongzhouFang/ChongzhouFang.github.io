@@ -1,5 +1,5 @@
 ---
-title: "CMPE 250: Special Topics (Modern Cloud Computing)"
+title: "CMPE 789: Special Topics (Modern Cloud Computing)"
 collection: teaching
 type: "Instructor, Fall 2027"
 # permalink: /teaching/eec152a
