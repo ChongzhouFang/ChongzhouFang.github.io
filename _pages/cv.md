@@ -2,7 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-resume: 'https://chongzhoufang.github.io/files/CV_Chongzhou.pdf'
+resume: 'https://chongzhoufang.github.io/files/CV_full.pdf'
 cv: 'https://chongzhoufang.github.io/files/CV_full.pdf'
 author_profile: true
 redirect_from:
